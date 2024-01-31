@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Katswcode
 - 👀 I’m interested in Electronic and programming 
-- 🌱 I’m currently learning Python, frameworks like Django, SQL, Automation, Computer vision, Machine Learning, Object detection and a OOP Project.
+- 🌱 I’m currently learning Python, frameworks like Django, SQL, Automation, Computer vision, Machine Learning, Object detection and a OOP Projects.
 - 💞️ I’m looking to collaborate on anyone that may have common interests 
 - 😄 Pronouns: Seb, Katsw
 - ⚡ Fun fact: I almost finish my Electronic Engineering Degree (+3y).
