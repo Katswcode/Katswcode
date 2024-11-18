@@ -22,8 +22,6 @@ English: Advanced (Certified by ILSC, Sydney, Australia 🇦🇺).
 
 🤝 Let’s Connect
 
-📧 Email: sebasherranp@gmail.com
-
 💼 LinkedIn: www.linkedin.com/in/juan-sebastian-herran-paez-36443b267
 
 🛠️ Software Skills
