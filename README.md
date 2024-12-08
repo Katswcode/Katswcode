@@ -66,6 +66,7 @@ Virtualization Tools
 
 Other Tools
 
+<img src="https://img.shields.io/badge/Overleaf-3D3D3D?style=for-the-badge&logo=overleaf&logoColor=white" alt="Overleaf" height="30">
 <img src="https://img.shields.io/badge/FLUIDSIM-00599C?style=for-the-badge" alt="FLUIDSIM" height="30">
 <img src="https://img.shields.io/badge/Fusion%20360-FF8A00?logo=fusion360&logoColor=white&style=for-the-badge" alt="Fusion 360" height="30">
 <img src="https://img.shields.io/badge/Tinkercad-FF9C00?logo=tinkercad&logoColor=white&style=for-the-badge" alt="Tinkercad" height="30">
