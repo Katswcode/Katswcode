@@ -1,4 +1,4 @@
----👋 Hi there, I’m @Katswcode. I’m an Electronics Engineering student that finished all the subjects.
+---👋 Hi there, I’m @Katswcode. I’m an Electronic Engineer.
 
 ---🌱 I have knowledge in:
 
