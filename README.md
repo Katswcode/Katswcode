@@ -2,15 +2,15 @@
 
 ---🌱 I have knowledge in:
 
-PCB Design using tools like KiCad, Altium and Proteus.
-
 Microprocessors & Microcontrollers like STM32, Arduino UNO, and ESP32.
 
 Networking configurations with tools such as Cisco Packet Tracer.
 
 Robotics and Simulation using CAD and virtual environments.
 
-⚡ I’m about to complete my Electronics Engineering degree (4+ years).
+PCB Design using tools like KiCad, Altium and Proteus.
+
+⚡ I am a recent graduated of Electronic Engineering.
 
 💞️ I’m looking to collaborate with others who share similar interests and passions.
 
