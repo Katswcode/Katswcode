@@ -1,6 +1,13 @@
 ---👋 Hi there, I’m @Katswcode. Electronic Engineer specializing in Embedded Systems, IoT, and Networks.
 
 
+---✨ Featured Projects:
+
+DC Motor Control System with Interrupts - Created a responsive system to precisely control the speed of a DC motor and measure its performance metrics. link: https://github.com/Katswcode/Embedded-Systems
+
+Ad hoc movile network with BATMAN protocol - Created an Ad hoc movile network with 3 nodes (real linux laptops) using the BATMAN protocol and testing the network in a real environment. link: https://github.com/Katswcode/Computing-Networks
+
+
 ---⚡ I have knowledge in:
 
 Microprocessors & Microcontrollers like STM32, Arduino UNO, and ESP32.
