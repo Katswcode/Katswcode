@@ -1,6 +1,6 @@
----👋 Hi there, I’m @Katswcode. I’m an Electronic Engineer.
+---👋 Hi there, I’m @Katswcode. I’m a professional Electronic Engineer.
 
----🌱 I have knowledge in:
+---⚡ I have knowledge in:
 
 Microprocessors & Microcontrollers like STM32, Arduino UNO, and ESP32.
 
@@ -10,7 +10,7 @@ Robotics and Simulation using CAD and virtual environments.
 
 PCB Design using tools like KiCad, Altium and Proteus.
 
-⚡ I am a recent graduated of Electronic Engineering.
+🌱 I am a recent graduated of Electronic Engineering.
 
 💞️ I’m looking to collaborate with others who share similar interests and passions.
 
@@ -32,12 +32,9 @@ Programming Languages
 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" height="30"> <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" alt="C" height="30"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" alt="C++" height="30">
 
+Operating Systems
 
-
-Frameworks & Libraries
-
-<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js" height="30"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" alt="Vue.js" height="30">
-
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=white&style=for-the-badge" alt="Linux" height="30">
 
 Electronics Design & Simulation
 
@@ -51,7 +48,7 @@ Networking & Protocol Analysis
 
 Software Development & Frameworks
 
-<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="Postman" height="30"> <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js" height="30"> <img src="https://img.shields.io/badge/Qt%20Creator-41C8A7?logo=qt&logoColor=white&style=for-the-badge" alt="Qt Creator" height="30"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" height="30">
+<img src="https://img.shields.io/badge/Qt%20Creator-41C8A7?logo=qt&logoColor=white&style=for-the-badge" alt="Qt Creator" height="30"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" height="30">
 
 
 Virtualization Tools
