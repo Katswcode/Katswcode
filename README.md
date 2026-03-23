@@ -1,4 +1,5 @@
----👋 Hi there, I’m @Katswcode. I’m a professional Electronic Engineer.
+---👋 Hi there, I’m @Katswcode. Electronic Engineer specializing in Embedded Systems, IoT, and Networks.
+
 
 ---⚡ I have knowledge in:
 
