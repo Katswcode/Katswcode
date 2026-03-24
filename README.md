@@ -3,9 +3,9 @@
 
 ---✨ Featured Projects:
 
-DC Motor Control System with Interrupts - Created a responsive system to precisely control the speed of a DC motor and measure its performance metrics. link: https://github.com/Katswcode/Embedded-Systems
+DC Motor Control System with Interrupts  [C, STM32] - Created a responsive system to precisely control the speed of a DC motor and measure its performance metrics. link: https://github.com/Katswcode/Embedded-Systems
 
-Ad hoc movile network with BATMAN protocol - Created an Ad hoc movile network with 3 nodes (real linux laptops) using the BATMAN protocol and testing the network in a real environment. link: https://github.com/Katswcode/Computing-Networks
+Ad hoc mobile network with BATMAN protocol [Linux, TCP/IP]- Created an Ad hoc movile network with 3 nodes (real linux laptops) using the BATMAN protocol and testing the network in a real environment. link: https://github.com/Katswcode/Computing-Networks
 
 
 ---⚡ I have knowledge in:
@@ -18,7 +18,9 @@ Robotics and Simulation using CAD and virtual environments.
 
 PCB Design using tools like KiCad, Altium and Proteus.
 
-🌱 I am a recent graduated of Electronic Engineering.
+🎓 I recently graduate in Electronic Engineering.
+
+🌱 Currently deepening my knowledge in advanced C pointers and memory management for embedded systems.
 
 💞️ I’m looking to collaborate with others who share similar interests and passions.
 
